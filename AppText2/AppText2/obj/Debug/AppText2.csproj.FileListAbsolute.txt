@@ -1,0 +1,9 @@
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\bin\Debug\AppText2.exe.config
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.Form1.resources
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.Properties.Resources.resources
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.csproj.GenerateResource.Cache
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\bin\Debug\AppText2.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\bin\Debug\AppText2.pdb
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppText2\AppText2\obj\Debug\AppText2.pdb
